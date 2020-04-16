@@ -1,3 +1,4 @@
+<!--<link rel="stylesheet" href="style.css" type="text/css"> -->
 <?php include 'style.php'; ?>
 
 <?php
